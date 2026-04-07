@@ -1,0 +1,23 @@
+## [2026-04-07] ingest | Mystical Dimensions of Islam
+
+**Source:** Annemarie Schimmel, *Mystical Dimensions of Islam* (1975)
+**Pages created/updated:**
+- `/wiki/sources/schimmel-mystical-dimensions.md` (new)
+- `/wiki/figures/rabia-al-adawiyya.md` (new)
+- `/wiki/figures/al-hallaj.md` (new)
+- `/wiki/figures/al-ghazzali.md` (new)
+- `/wiki/figures/ibn-arabi.md` (new)
+- `/wiki/figures/rumi.md` (new)
+- `/wiki/concepts/fana-baqa.md` (new)
+- `/wiki/concepts/wahdat-al-wujud.md` (new)
+- `/wiki/concepts/nur-muhammadi.md` (new)
+- `/wiki/concepts/tawakkul.md` (new)
+- `/wiki/practices/dhikr.md` (new)
+- `/wiki/practices/sama.md` (new)
+- `/wiki/practices/adab.md` (new)
+- `/wiki/orders/qadiriyya.md` (new)
+- `/wiki/orders/chishtiyya.md` (new)
+- `/wiki/orders/mevleviyya.md` (new)
+- `/wiki/orders/naqshbandiyya.md` (new)
+- `/wiki/debates/intoxication-vs-sobriety.md` (new)
+- `/wiki/debates/sama-controversy.md` (new)

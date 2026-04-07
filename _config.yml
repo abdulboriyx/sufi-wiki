@@ -1,0 +1,27 @@
+title: Sufism Wiki
+description: A structured knowledge base on Sufism and Islamic mysticism
+baseurl: ""
+url: ""
+
+theme: minima
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+plugins:
+  - jekyll-feed
+
+exclude:
+  - raw/
+  - AGENTS.md
+  - log.md
+  - "*.pdf"
+  - "*.txt"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
