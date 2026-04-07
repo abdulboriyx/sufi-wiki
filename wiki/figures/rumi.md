@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Jalaluddin Rumi"
+---
+
 # Jalaluddin Rumi
 **Dates:** 1207–1273
 **Origin:** Balkh (Khorasan, present-day Afghanistan); later settled in Konya (present-day Turkey)
@@ -29,8 +34,8 @@ Until his forties, Rumi was a respected Islamic scholar and jurist. His encounte
 - **Universalism:** Within the Muslim world, Rumi's embrace of multiple faiths and his poetry's apparent theological pluralism has been celebrated by some and criticized by others as incompatible with Islamic exclusivism.
 
 ## Related Pages
-- [[mevleviyya]] — the order founded in his name
-- [[sama]] — the sema ceremony is the embodied extension of his poetry
-- [[fana-baqa]] — the arc from longing to return is his central spiritual theme
-- [[intoxication-vs-sobriety]] — Rumi represents the intoxicated stream par excellence
-- [[schimmel-mystical-dimensions]] (p. 310)
+- [mevleviyya](../orders/mevleviyya) — the order founded in his name
+- [sama](../practices/sama) — the sema ceremony is the embodied extension of his poetry
+- [fana-baqa](../concepts/fana-baqa) — the arc from longing to return is his central spiritual theme
+- [intoxication-vs-sobriety](../debates/intoxication-vs-sobriety) — Rumi represents the intoxicated stream par excellence
+- [schimmel-mystical-dimensions](../sources/schimmel-mystical-dimensions) (p. 310)

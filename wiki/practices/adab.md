@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Adab (Etiquette of the Path)"
+---
+
 # Adab (Etiquette of the Path)
 
 ## Description
@@ -24,9 +29,9 @@ The master-disciple relationship (*murshid-murid*) is governed almost entirely b
 - **Institutionalization:** As Sufism institutionalized into formal orders, adab codes became more elaborate and formalized. Some scholars (e.g., Trimingham) argue this formalization replaced inner spirituality with outer propriety.
 
 ## Related Pages
-- [[dhikr]] — adab governs how and when dhikr is performed
-- [[sama]] — the conduct during sama is entirely governed by adab rules
-- [[tawakkul]] — adab toward God is inseparable from trust in God
-- [[fana-baqa]] — adab is the daily practice that makes fana possible
-- [[qadiriyya]], [[chishtiyya]], [[naqshbandiyya]], [[mevleviyya]]
-- [[schimmel-mystical-dimensions]]
+- [dhikr](dhikr) — adab governs how and when dhikr is performed
+- [sama](sama) — the conduct during sama is entirely governed by adab rules
+- [tawakkul](../concepts/tawakkul) — adab toward God is inseparable from trust in God
+- [fana-baqa](../concepts/fana-baqa) — adab is the daily practice that makes fana possible
+- [qadiriyya](../orders/qadiriyya), [chishtiyya](../orders/chishtiyya), [naqshbandiyya](../orders/naqshbandiyya), [mevleviyya](../orders/mevleviyya)
+- [schimmel-mystical-dimensions](../sources/schimmel-mystical-dimensions)

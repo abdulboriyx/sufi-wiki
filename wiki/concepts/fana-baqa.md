@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Fana and Baqa (Annihilation and Subsistence)"
+---
+
 # Fana and Baqa (Annihilation and Subsistence)
 
 ## Definition
@@ -15,9 +20,9 @@ Al-Ghazzali later integrated fana into a psychological and ethical framework in 
 - **Modern scholarship:** Some scholars (e.g., Massignon) see in fana a parallel to Christian mystical death; others (e.g., Sells) caution against such comparisons and emphasize the distinctly Islamic framework.
 
 ## Related Pages
-- [[al-hallaj]] — executed for his expression of fana
-- [[al-ghazzali]] — integrated fana into orthodox Sufi ethics
-- [[ibn-arabi]] — gave fana ontological grounding via wahdat al-wujud
-- [[wahdat-al-wujud]] — the metaphysical backdrop to Ibn Arabi's reading of fana
-- [[intoxication-vs-sobriety]] — the debate between fana as ecstasy and as ethical purification
-- [[schimmel-mystical-dimensions]]
+- [al-hallaj](../figures/al-hallaj) — executed for his expression of fana
+- [al-ghazzali](../figures/al-ghazzali) — integrated fana into orthodox Sufi ethics
+- [ibn-arabi](../figures/ibn-arabi) — gave fana ontological grounding via wahdat al-wujud
+- [wahdat-al-wujud](wahdat-al-wujud) — the metaphysical backdrop to Ibn Arabi's reading of fana
+- [intoxication-vs-sobriety](../debates/intoxication-vs-sobriety) — the debate between fana as ecstasy and as ethical purification
+- [schimmel-mystical-dimensions](../sources/schimmel-mystical-dimensions)

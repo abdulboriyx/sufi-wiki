@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Tawakkul (Absolute Trust in God)"
+---
+
 # Tawakkul (Absolute Trust in God)
 
 ## Definition
@@ -17,7 +22,7 @@ Al-Ghazzali's treatment in the *Ihya'* is the most influential: he distinguishes
 - **Theological tension:** The extreme form of tawakkul risks fatalism (*jabr*) — a denial of human agency that Islamic theology generally rejects.
 
 ## Related Pages
-- [[al-ghazzali]] — gave the most authoritative moderate formulation
-- [[fana-baqa]] — tawakkul at its highest approaches the selflessness of fana
-- [[adab]] — the inner attitude of tawakkul is cultivated through disciplined practice
-- [[schimmel-mystical-dimensions]]
+- [al-ghazzali](../figures/al-ghazzali) — gave the most authoritative moderate formulation
+- [fana-baqa](fana-baqa) — tawakkul at its highest approaches the selflessness of fana
+- [adab](../practices/adab) — the inner attitude of tawakkul is cultivated through disciplined practice
+- [schimmel-mystical-dimensions](../sources/schimmel-mystical-dimensions)

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Mystical Dimensions of Islam"
+---
+
 # Mystical Dimensions of Islam
 **Author:** Annemarie Schimmel
 **Published:** 1975, University of North Carolina Press
@@ -15,29 +20,29 @@ The book is structured into sections covering the etymology and definition of Su
 - **Institutionalization:** The transition from individual masters to complex brotherhoods with distinct rituals and lineages.
 
 ## Figures Extracted
-- [[rabia-al-adawiyya]] - The saint of divine love.
-- [[al-hallaj]] - The martyr of "Ana al-Haqq".
-- [[al-ghazzali]] - The synthesizer of law and mysticism.
-- [[ibn-arabi]] - The doctor of "Unity of Being" (*Wahdat al-Wujud*).
-- [[rumi]] - The supreme mystical poet of love.
+- [rabia-al-adawiyya](../figures/rabia-al-adawiyya) - The saint of divine love.
+- [al-hallaj](../figures/al-hallaj) - The martyr of "Ana al-Haqq".
+- [al-ghazzali](../figures/al-ghazzali) - The synthesizer of law and mysticism.
+- [ibn-arabi](../figures/ibn-arabi) - The doctor of "Unity of Being" (*Wahdat al-Wujud*).
+- [rumi](../figures/rumi) - The supreme mystical poet of love.
 
 ## Concepts Extracted
-- [[fana-baqa]] - Annihilation and Subsistence.
-- [[nur-muhammadi]] - The Muhammadan Light.
-- [[wahdat-al-wujud]] - Unity of Being.
-- [[tawakkul]] - Absolute trust in God.
+- [fana-baqa](../concepts/fana-baqa) - Annihilation and Subsistence.
+- [nur-muhammadi](../concepts/nur-muhammadi) - The Muhammadan Light.
+- [wahdat-al-wujud](../concepts/wahdat-al-wujud) - Unity of Being.
+- [tawakkul](../concepts/tawakkul) - Absolute trust in God.
 
 ## Practices Extracted
-- [[dhikr]] - Recollection/Remembrance of God.
-- [[sama]] - Mystical concert/listening.
-- [[adab]] - Etiquette of the Path.
+- [dhikr](../practices/dhikr) - Recollection/Remembrance of God.
+- [sama](../practices/sama) - Mystical concert/listening.
+- [adab](../practices/adab) - Etiquette of the Path.
 
 ## Orders Extracted
-- [[qadiriyya]]
-- [[chishtiyya]]
-- [[mevleviyya]]
-- [[naqshbandiyya]]
+- [qadiriyya](../orders/qadiriyya)
+- [chishtiyya](../orders/chishtiyya)
+- [mevleviyya](../orders/mevleviyya)
+- [naqshbandiyya](../orders/naqshbandiyya)
 
 ## Debates Extracted
-- [[intoxication-vs-sobriety]] (Sukr vs. Sahw)
-- [[sama-controversy]]
+- [intoxication-vs-sobriety](../debates/intoxication-vs-sobriety) (Sukr vs. Sahw)
+- [sama-controversy](../debates/sama-controversy)

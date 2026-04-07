@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Nur Muhammadi (The Muhammadan Light) and Insan Kamil (The Perfect Man)"
+---
+
 # Nur Muhammadi (The Muhammadan Light) and Insan Kamil (The Perfect Man)
 
 ## Definition
@@ -17,8 +22,8 @@ Ibn 'Arabi gave it full systematic form in *Fusus al-Hikam*, where each chapter 
 - **Insider vs. outside scholarship:** From within the tradition, *Nur Muhammadi* is experienced as devotional truth; outside scholars (e.g., Schimmel, Sells) treat it as a mythological-theological construct expressing the Prophet's exemplary spiritual status.
 
 ## Related Pages
-- [[ibn-arabi]] — systematized the Perfect Man doctrine
-- [[al-hallaj]] — early articulator of Muhammad's cosmic role
-- [[wahdat-al-wujud]] — the metaphysical framework within which Insan Kamil makes sense
-- [[fana-baqa]] — the realized mystic achieves the status of Perfect Man through annihilation
-- [[schimmel-mystical-dimensions]]
+- [ibn-arabi](../figures/ibn-arabi) — systematized the Perfect Man doctrine
+- [al-hallaj](../figures/al-hallaj) — early articulator of Muhammad's cosmic role
+- [wahdat-al-wujud](wahdat-al-wujud) — the metaphysical framework within which Insan Kamil makes sense
+- [fana-baqa](fana-baqa) — the realized mystic achieves the status of Perfect Man through annihilation
+- [schimmel-mystical-dimensions](../sources/schimmel-mystical-dimensions)

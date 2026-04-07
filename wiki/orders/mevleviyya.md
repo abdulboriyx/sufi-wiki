@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Mevleviyya (The Mevlevi Order)"
+---
+
 # Mevleviyya (The Mevlevi Order)
 
 ## Founding and Lineage
@@ -23,9 +28,9 @@ Following Atatürk's dissolution of all Sufi orders in Turkey in 1925, the order
 The Mevleviyya shaped Ottoman court culture, art, and music for centuries. It served as a meeting point between Persian, Turkish, and Arab mystical traditions. In the modern era, Rumi's poetry has become the bestselling poetry in the United States (in translation by Coleman Barks and others), though scholars debate how accurately these translations convey the original.
 
 ## Related Pages
-- [[rumi]] — the founding spiritual figure
-- [[sama]] — the sema ceremony is the order's central practice
-- [[sama-controversy]] — the permissibility of the sema was debated in Ottoman legal contexts
-- [[dhikr]] — the sema is interpreted as an embodied form of remembrance
-- [[fana-baqa]] — the sema enacts the journey of annihilation and return
-- [[schimmel-mystical-dimensions]]
+- [rumi](../figures/rumi) — the founding spiritual figure
+- [sama](../practices/sama) — the sema ceremony is the order's central practice
+- [sama-controversy](../debates/sama-controversy) — the permissibility of the sema was debated in Ottoman legal contexts
+- [dhikr](../practices/dhikr) — the sema is interpreted as an embodied form of remembrance
+- [fana-baqa](../concepts/fana-baqa) — the sema enacts the journey of annihilation and return
+- [schimmel-mystical-dimensions](../sources/schimmel-mystical-dimensions)

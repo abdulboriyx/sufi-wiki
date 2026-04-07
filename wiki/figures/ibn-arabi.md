@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Ibn 'Arabi"
+---
+
 # Ibn 'Arabi
 **Dates:** 1165–1240
 **Origin:** Murcia (al-Andalus, present-day Spain); later settled in Damascus
@@ -23,14 +28,14 @@ He is venerated as the supreme Sufi sage and reviled as a pantheist heretic, oft
 
 ## Controversies and Criticisms
 - **Ibn Taymiyya's condemnation:** The Hanbali jurist Ibn Taymiyya (d. 1328) wrote extensive refutations of Ibn 'Arabi, arguing that *wahdat al-wujud* is pantheism (*hulul* or *ittihad*) and therefore heresy. This condemnation was renewed by later Wahhabi and Salafi scholars.
-- **Sirhindi's counter-doctrine:** Ahmad Sirhindi (d. 1624) proposed *wahdat al-shuhud* (unity of witness) as a corrective: the experience of unity is a state of consciousness, not an ontological truth. See [[wahdat-al-wujud]].
+- **Sirhindi's counter-doctrine:** Ahmad Sirhindi (d. 1624) proposed *wahdat al-shuhud* (unity of witness) as a corrective: the experience of unity is a state of consciousness, not an ontological truth. See [wahdat-al-wujud](../concepts/wahdat-al-wujud).
 - **Misogyny accusations:** Some feminist scholars have critiqued passages in his works as reflecting medieval patriarchal assumptions, despite his often-positive portrayals of female saints and his claim to have received spiritual authorization from female masters.
 - **His prophecy about the Mongols:** He reportedly predicted the Mongol invasions; some admirers saw this as evidence of his saintly knowledge; critics see it as retrospective attribution.
 - **Authenticity of *Fusus al-Hikam*:** A minority of scholars has questioned whether the received text accurately represents the original.
 
 ## Related Pages
-- [[wahdat-al-wujud]] — his central metaphysical doctrine
-- [[nur-muhammadi]] — his systematic treatment of the Perfect Man and Muhammadan Light
-- [[fana-baqa]] — fana receives its fullest ontological explanation in his system
-- [[intoxication-vs-sobriety]] — his system implicitly favors the intoxicated metaphysic, though he himself was personally disciplined
-- [[schimmel-mystical-dimensions]] (p. 263)
+- [wahdat-al-wujud](../concepts/wahdat-al-wujud) — his central metaphysical doctrine
+- [nur-muhammadi](../concepts/nur-muhammadi) — his systematic treatment of the Perfect Man and Muhammadan Light
+- [fana-baqa](../concepts/fana-baqa) — fana receives its fullest ontological explanation in his system
+- [intoxication-vs-sobriety](../debates/intoxication-vs-sobriety) — his system implicitly favors the intoxicated metaphysic, though he himself was personally disciplined
+- [schimmel-mystical-dimensions](../sources/schimmel-mystical-dimensions) (p. 263)

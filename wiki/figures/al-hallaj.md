@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Mansur al-Hallaj"
+---
+
 # Mansur al-Hallaj
 **Dates:** 858–922
 **Origin:** Al-Baydha (Persia), later Baghdad
@@ -20,12 +25,12 @@ His name means "carder of cotton" — a trade he practiced — and Sufi poets la
 
 ## Controversies and Criticisms
 - **His execution:** Was it legally justified? Classical Muslim opinion is divided. Many orthodox scholars (including some Sufis) accepted the verdict — his public utterance constituted punishable heresy (*zandaqa*). Many Sufis saw it as martyrdom: he died for the truth of divine love.
-- **Al-Junayd's condemnation:** His own teacher reportedly declared his blood lawful (*halal*) — a painful historical detail that illustrates the sobriety/intoxication divide (see [[intoxication-vs-sobriety]]).
+- **Al-Junayd's condemnation:** His own teacher reportedly declared his blood lawful (*halal*) — a painful historical detail that illustrates the sobriety/intoxication divide (see [intoxication-vs-sobriety](../debates/intoxication-vs-sobriety)).
 - **Louis Massignon's scholarship:** The French scholar devoted his career to Hallaj (*La Passion de Hallaj*, 1922), interpreting him in quasi-Christian terms as a mystical martyr who offered himself in expiation for humanity. This reading is contested as projecting Christian categories onto an Islamic figure.
 - **Political dimension:** Some historians argue his execution was as much political as religious — he had followers among the poor and made powerful enemies at the Abbasid court.
 
 ## Related Pages
-- [[fana-baqa]] — his execution is the ultimate enactment of annihilation
-- [[intoxication-vs-sobriety]] — the paradigmatic "intoxicated" mystic
-- [[nur-muhammadi]] — he was an early developer of the Muhammadan Light doctrine
-- [[schimmel-mystical-dimensions]] (p. 62)
+- [fana-baqa](../concepts/fana-baqa) — his execution is the ultimate enactment of annihilation
+- [intoxication-vs-sobriety](../debates/intoxication-vs-sobriety) — the paradigmatic "intoxicated" mystic
+- [nur-muhammadi](../concepts/nur-muhammadi) — he was an early developer of the Muhammadan Light doctrine
+- [schimmel-mystical-dimensions](../sources/schimmel-mystical-dimensions) (p. 62)

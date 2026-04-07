@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Rabia al-Adawiyya"
+---
+
 # Rabia al-Adawiyya
 **Dates:** c. 717–801
 **Origin:** Basra (Iraq)
@@ -27,7 +32,7 @@ Rabia left no known writings. Her teachings survive through:
 - **Status among male masters:** Classical sources show her debating al-Hasan al-Basri as an equal or superior; some later traditions subordinate her within male-dominated hierarchies.
 
 ## Related Pages
-- [[fana-baqa]] — her love mysticism anticipates the doctrine of annihilation in God
-- [[tawakkul]] — her radical asceticism is an expression of absolute trust
-- [[intoxication-vs-sobriety]] — her path is neither "intoxicated" nor "sober" in the classical sense; she predates and partly transcends the categories
-- [[schimmel-mystical-dimensions]] (p. 38)
+- [fana-baqa](../concepts/fana-baqa) — her love mysticism anticipates the doctrine of annihilation in God
+- [tawakkul](../concepts/tawakkul) — her radical asceticism is an expression of absolute trust
+- [intoxication-vs-sobriety](../debates/intoxication-vs-sobriety) — her path is neither "intoxicated" nor "sober" in the classical sense; she predates and partly transcends the categories
+- [schimmel-mystical-dimensions](../sources/schimmel-mystical-dimensions) (p. 38)

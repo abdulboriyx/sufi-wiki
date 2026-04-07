@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Sama (Mystical Audition / Spiritual Concert)"
+---
+
 # Sama (Mystical Audition / Spiritual Concert)
 
 ## Description
@@ -17,7 +22,7 @@ Rumi's poetry frequently uses the reed flute (*ney*) as a symbol of the soul's s
 - **Naqshbandiyya:** Historically more cautious or opposed to sama; some branches prohibit music outright, relying instead on silent dhikr.
 
 ## Scholarly Debates
-See also: [[sama-controversy]]
+See also: [sama-controversy](../debates/sama-controversy)
 
 - **Permissibility debate (classical):** Al-Ghazzali devoted a long section of the *Ihya'* to defending the permissibility of sama under proper conditions: the listener must be trained (*ahl al-sama'*), the gathering must be free from worldly entertainment intent, and no unlawful mixing of sexes should occur. Ibn al-Jawzi (d. 1200) wrote a rebuttal specifically condemning sama.
 - **Effect vs. cause of spiritual states:** A core question: does sama *cause* spiritual states (*wajd*), or merely reveal states already present in the listener? Al-Ghazzali argues it is a revealer, not a cause — the music draws out what the heart already carries.
@@ -25,10 +30,10 @@ See also: [[sama-controversy]]
 - **Modern reformist critique:** Salafi and Deobandi movements largely prohibit sama as an innovation or as a path to prohibited music; Sufi orders and their scholarly defenders maintain the classical permissibility arguments.
 
 ## Related Pages
-- [[dhikr]] — often intertwined with sama; the distinction between the two is sometimes blurred
-- [[sama-controversy]] — detailed treatment of the permissibility debate
-- [[mevleviyya]] — the order most identified with formalized sama
-- [[chishtiyya]] — the South Asian tradition of qawwali sama
-- [[rumi]] — the figure whose poetry and legacy are inseparable from the Mevlevi sama
-- [[intoxication-vs-sobriety]] — the debate about whether ecstatic states are sought or received
-- [[schimmel-mystical-dimensions]]
+- [dhikr](dhikr) — often intertwined with sama; the distinction between the two is sometimes blurred
+- [sama-controversy](../debates/sama-controversy) — detailed treatment of the permissibility debate
+- [mevleviyya](../orders/mevleviyya) — the order most identified with formalized sama
+- [chishtiyya](../orders/chishtiyya) — the South Asian tradition of qawwali sama
+- [rumi](../figures/rumi) — the figure whose poetry and legacy are inseparable from the Mevlevi sama
+- [intoxication-vs-sobriety](../debates/intoxication-vs-sobriety) — the debate about whether ecstatic states are sought or received
+- [schimmel-mystical-dimensions](../sources/schimmel-mystical-dimensions)

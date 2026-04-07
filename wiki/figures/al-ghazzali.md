@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Al-Ghazzali"
+---
+
 # Al-Ghazzali
 **Dates:** 1058–1111
 **Origin:** Tus (Khorasan, present-day Iran)
@@ -29,8 +34,8 @@ Known as *Hujjat al-Islam* (Proof of Islam), he is one of the few figures accept
 - **Hallaj and the intoxicated mystics:** Al-Ghazzali implicitly criticized the public expression of ecstatic states, suggesting Hallaj's error was disclosure (*ifsha' al-sirr*) — speaking the unspeakable. This is the "sober" Sufi position.
 
 ## Related Pages
-- [[fana-baqa]] — he provided the most widely accepted moderate account of these concepts
-- [[tawakkul]] — his nuanced treatment of tawakkul is the classical reference
-- [[sama-controversy]] — his defense of sama under proper conditions is the key classical text
-- [[intoxication-vs-sobriety]] — he represents the "sobriety" position
-- [[schimmel-mystical-dimensions]] (p. 91)
+- [fana-baqa](../concepts/fana-baqa) — he provided the most widely accepted moderate account of these concepts
+- [tawakkul](../concepts/tawakkul) — his nuanced treatment of tawakkul is the classical reference
+- [sama-controversy](../debates/sama-controversy) — his defense of sama under proper conditions is the key classical text
+- [intoxication-vs-sobriety](../debates/intoxication-vs-sobriety) — he represents the "sobriety" position
+- [schimmel-mystical-dimensions](../sources/schimmel-mystical-dimensions) (p. 91)

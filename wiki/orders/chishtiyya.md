@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Chishtiyya"
+---
+
 # Chishtiyya
 
 ## Founding and Lineage
@@ -16,8 +21,8 @@ The Chishtiyya's heartland is the Indian subcontinent: India, Pakistan, and Bang
 The Chishtiyya played a decisive role in the Islamization of the Indian subcontinent — not through conquest but through service, music, and accessibility. Mu'in al-Din Chishti's shrine at Ajmer remains one of the most visited pilgrimage sites in South Asia, drawing both Muslim and non-Muslim devotees. Nusrat Fateh Ali Khan (d. 1997) brought Chishti qawwali to global audiences.
 
 ## Related Pages
-- [[sama]] — the order's defining practice
-- [[sama-controversy]] — the debate that surrounded Chishti sama
-- [[dhikr]] — integrated with sama in Chishti practice
-- [[adab]] — Chishti hospitality as spiritual adab
-- [[schimmel-mystical-dimensions]]
+- [sama](../practices/sama) — the order's defining practice
+- [sama-controversy](../debates/sama-controversy) — the debate that surrounded Chishti sama
+- [dhikr](../practices/dhikr) — integrated with sama in Chishti practice
+- [adab](../practices/adab) — Chishti hospitality as spiritual adab
+- [schimmel-mystical-dimensions](../sources/schimmel-mystical-dimensions)

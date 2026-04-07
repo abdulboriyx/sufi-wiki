@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Dhikr (Remembrance of God)"
+---
+
 # Dhikr (Remembrance of God)
 
 ## Description
@@ -25,8 +30,8 @@ In the station system (*maqamat*), dhikr is both a technique for advancing throu
 - **Efficacy and mechanism:** Classical Sufi psychology (al-Ghazzali, al-Qushayri) explains dhikr's effect through the purification of the heart's mirror; modern scholars debate whether the altered states associated with intensive dhikr are psychological, neurological, or genuinely spiritual phenomena.
 
 ## Related Pages
-- [[sama]] — dhikr often accompanies or overlaps with sama practice
-- [[adab]] — the etiquette that frames how dhikr is performed
-- [[fana-baqa]] — the state toward which dhikr is a vehicle
-- [[qadiriyya]], [[naqshbandiyya]], [[chishtiyya]], [[mevleviyya]] — different orders' approaches to dhikr
-- [[schimmel-mystical-dimensions]]
+- [sama](sama) — dhikr often accompanies or overlaps with sama practice
+- [adab](adab) — the etiquette that frames how dhikr is performed
+- [fana-baqa](../concepts/fana-baqa) — the state toward which dhikr is a vehicle
+- [qadiriyya](../orders/qadiriyya), [naqshbandiyya](../orders/naqshbandiyya), [chishtiyya](../orders/chishtiyya), [mevleviyya](../orders/mevleviyya) — different orders' approaches to dhikr
+- [schimmel-mystical-dimensions](../sources/schimmel-mystical-dimensions)

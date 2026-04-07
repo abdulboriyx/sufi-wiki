@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Qadiriyya"
+---
+
 # Qadiriyya
 
 ## Founding and Lineage
@@ -23,6 +28,6 @@ The Qadiriyya is the most globally distributed Sufi order, with strong presence 
 The Qadiriyya shaped West African Islam profoundly, producing the Tijaniyya as an offshoot and competing with it for followers. In South Asia it was the dominant order before the Chishtiyya rose to prominence. 'Abd al-Qadir al-Jilani's shrine in Baghdad remains one of the most visited in the Islamic world.
 
 ## Related Pages
-- [[dhikr]] — the central practice
-- [[adab]] — the founder's Hanbali background gave the order a strong *adab* tradition
-- [[schimmel-mystical-dimensions]]
+- [dhikr](../practices/dhikr) — the central practice
+- [adab](../practices/adab) — the founder's Hanbali background gave the order a strong *adab* tradition
+- [schimmel-mystical-dimensions](../sources/schimmel-mystical-dimensions)

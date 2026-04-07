@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Naqshbandiyya"
+---
+
 # Naqshbandiyya
 
 ## Founding and Lineage
@@ -30,9 +35,9 @@ The Naqshbandiyya has the largest geographic spread after the Qadiriyya:
 The Naqshbandiyya has been politically consequential in a way unusual for Sufi orders. It led or inspired Muslim resistance movements against Russian expansion in the Caucasus and Central Asia, anti-British activity in India, and continues to be a major intellectual force in Islamic reform movements globally. Its insistence on the compatibility of inner mystical experience with strict outer law made it a bridge between Sufi and Salafi-adjacent reformist tendencies — though this bridge has always been contested.
 
 ## Related Pages
-- [[dhikr]] — silent dhikr as the defining practice
-- [[wahdat-al-wujud]] — the Naqshbandiyya (via Sirhindi) proposed *wahdat al-shuhud* as a corrective
-- [[intoxication-vs-sobriety]] — the order represents the "sobriety" (*sahw*) position
-- [[sama-controversy]] — the order's opposition to sama
-- [[adab]] — the Naqshbandiyya's emphasis on Shari'a and discipline
-- [[schimmel-mystical-dimensions]]
+- [dhikr](../practices/dhikr) — silent dhikr as the defining practice
+- [wahdat-al-wujud](../concepts/wahdat-al-wujud) — the Naqshbandiyya (via Sirhindi) proposed *wahdat al-shuhud* as a corrective
+- [intoxication-vs-sobriety](../debates/intoxication-vs-sobriety) — the order represents the "sobriety" (*sahw*) position
+- [sama-controversy](../debates/sama-controversy) — the order's opposition to sama
+- [adab](../practices/adab) — the Naqshbandiyya's emphasis on Shari'a and discipline
+- [schimmel-mystical-dimensions](../sources/schimmel-mystical-dimensions)

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "The Sama Controversy"
+---
+
 # The Sama Controversy
 
 ## The Debate
@@ -69,11 +74,11 @@ A specific sub-controversy concerns *wajd* — the ecstatic state that sama may 
 - The line between "religious music" and "entertainment" — different cultures draw it differently, and the distinction shifts over time.
 
 ## Related Pages
-- [[sama]] — the practice itself
-- [[dhikr]] — sama often accompanies or overlaps with dhikr
-- [[intoxication-vs-sobriety]] — the wajd question intersects with this debate
-- [[al-ghazzali]] — the most important defender
-- [[chishtiyya]] — the order most committed to sama
-- [[naqshbandiyya]] — the order most opposed to sama
-- [[mevleviyya]] — the order whose sama became internationally known
-- [[schimmel-mystical-dimensions]]
+- [sama](../practices/sama) — the practice itself
+- [dhikr](../practices/dhikr) — sama often accompanies or overlaps with dhikr
+- [intoxication-vs-sobriety](intoxication-vs-sobriety) — the wajd question intersects with this debate
+- [al-ghazzali](../figures/al-ghazzali) — the most important defender
+- [chishtiyya](../orders/chishtiyya) — the order most committed to sama
+- [naqshbandiyya](../orders/naqshbandiyya) — the order most opposed to sama
+- [mevleviyya](../orders/mevleviyya) — the order whose sama became internationally known
+- [schimmel-mystical-dimensions](../sources/schimmel-mystical-dimensions)

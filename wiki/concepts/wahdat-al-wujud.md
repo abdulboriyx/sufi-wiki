@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Wahdat al-Wujud (Unity of Being)"
+---
+
 # Wahdat al-Wujud (Unity of Being)
 
 ## Definition
@@ -15,8 +20,8 @@ His disciple Sadr al-Din al-Qunawi (d. 1274) systematized the doctrine, and it b
 - **Modern scholarship:** Chittick (1989) argues Ibn 'Arabi's position is more nuanced than either defenders or critics allow; *wahdat al-wujud* is phenomenological before it is metaphysical.
 
 ## Related Pages
-- [[ibn-arabi]] — the originating figure
-- [[fana-baqa]] — the experiential correlate: the mystic "becomes" unified through annihilation
-- [[nur-muhammadi]] — the Perfect Man as the mediating form of Divine self-disclosure
-- [[intoxication-vs-sobriety]] — the debate over whether such doctrines should be expressed openly
-- [[schimmel-mystical-dimensions]]
+- [ibn-arabi](../figures/ibn-arabi) — the originating figure
+- [fana-baqa](fana-baqa) — the experiential correlate: the mystic "becomes" unified through annihilation
+- [nur-muhammadi](nur-muhammadi) — the Perfect Man as the mediating form of Divine self-disclosure
+- [intoxication-vs-sobriety](../debates/intoxication-vs-sobriety) — the debate over whether such doctrines should be expressed openly
+- [schimmel-mystical-dimensions](../sources/schimmel-mystical-dimensions)

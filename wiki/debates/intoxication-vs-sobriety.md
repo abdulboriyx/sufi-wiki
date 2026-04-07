@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Intoxication vs. Sobriety (Sukr vs. Sahw)"
+---
+
 # Intoxication vs. Sobriety (Sukr vs. Sahw)
 
 ## The Debate
@@ -56,10 +61,10 @@ From the perspective of Sunni orthodoxy (and especially Hanbali and later Salafi
 - Whether al-Hallaj should be read as a martyr of love or a cautionary example of indiscretion.
 
 ## Related Pages
-- [[al-hallaj]] — the paradigmatic intoxicated mystic
-- [[al-ghazzali]] — the most influential defender of sober Sufism
-- [[fana-baqa]] — the experience that generates the intoxicated state
-- [[wahdat-al-wujud]] — Sirhindi used the sukr/sahw distinction to critique Ibn Arabi
-- [[naqshbandiyya]] — the order most associated with the sober path
-- [[sama]] — the debate about sama overlaps with this one
-- [[schimmel-mystical-dimensions]]
+- [al-hallaj](../figures/al-hallaj) — the paradigmatic intoxicated mystic
+- [al-ghazzali](../figures/al-ghazzali) — the most influential defender of sober Sufism
+- [fana-baqa](../concepts/fana-baqa) — the experience that generates the intoxicated state
+- [wahdat-al-wujud](../concepts/wahdat-al-wujud) — Sirhindi used the sukr/sahw distinction to critique Ibn Arabi
+- [naqshbandiyya](../orders/naqshbandiyya) — the order most associated with the sober path
+- [sama](../practices/sama) — the debate about sama overlaps with this one
+- [schimmel-mystical-dimensions](../sources/schimmel-mystical-dimensions)
