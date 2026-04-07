@@ -1,7 +1,7 @@
 title: Sufism Wiki
 description: A structured knowledge base on Sufism and Islamic mysticism
-baseurl: ""
-url: ""
+baseurl: "/sufi-wiki"
+url: "https://abdulboriyx.github.io"
 
 theme: minima
 
