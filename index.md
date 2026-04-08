@@ -7,6 +7,7 @@ title: "Sufism Wiki Index"
 
 ## Sources
 - [schimmel-mystical-dimensions](wiki/sources/schimmel-mystical-dimensions) — Annemarie Schimmel, *Mystical Dimensions of Islam* (1975)
+- [chittick-sufi-path-knowledge](wiki/sources/chittick-sufi-path-knowledge) — William Chittick, *The Sufi Path of Knowledge* (1989)
 
 ## Figures
 - [rabia-al-adawiyya](wiki/figures/rabia-al-adawiyya) — Divine love; 8th-century ascetic of Basra
@@ -18,6 +19,7 @@ title: "Sufism Wiki Index"
 ## Concepts
 - [fana-baqa](wiki/concepts/fana-baqa) — Annihilation and Subsistence
 - [wahdat-al-wujud](wiki/concepts/wahdat-al-wujud) — Unity of Being (Ibn 'Arabi)
+- [imagination](wiki/concepts/imagination) — *Khayal*: the intermediate world of images
 - [nur-muhammadi](wiki/concepts/nur-muhammadi) — The Muhammadan Light; The Perfect Man (*Insan Kamil*)
 - [tawakkul](wiki/concepts/tawakkul) — Absolute Trust in God
 

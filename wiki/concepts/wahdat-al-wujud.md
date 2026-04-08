@@ -9,7 +9,9 @@ title: "Wahdat al-Wujud (Unity of Being)"
 *Wahdat al-Wujud* (Arabic: وحدة الوجود) means "Unity of Being" or "Oneness of Existence." It is the doctrine, associated primarily with Ibn 'Arabi (1165–1240), that all existence is ultimately one — a continuous self-disclosure (*tajalli*) of the Divine Being. There is no multiplicity at the level of ultimate reality; the apparent diversity of the world is real at one level but not at another.
 
 ## Origin and Development
-Ibn 'Arabi did not use the phrase *wahdat al-wujud* himself — it was applied to his system by later interpreters, both admirers and critics. The doctrine emerges from his vast work *Fusus al-Hikam* (Bezels of Wisdom) and the encyclopedic *Futuhat al-Makkiyya* (Meccan Illuminations). He argued that God is both the *zahir* (manifest) and the *batin* (hidden): the world is God's self-manifestation, yet God transcends all manifestation.
+Ibn 'Arabi did not use the phrase *wahdat al-wujud* himself — it was applied to his system by later interpreters, both admirers and critics. Chittick (1989) clarifies that for Ibn Arabi, the doctrine is a "Scale" (*mizan*) for understanding how God can be both "Not-He" (*tanzih*) and "He" (*tashbih*).
+
+The doctrine emerges from his vast work *Fusus al-Hikam* (Bezels of Wisdom) and the encyclopedic *Futuhat al-Makkiyya* (Meccan Illuminations). He argued that God is both the *zahir* (manifest) and the *batin* (hidden): the world is God's self-manifestation (*tajalli*), yet God transcends all manifestation.
 
 His disciple Sadr al-Din al-Qunawi (d. 1274) systematized the doctrine, and it became the philosophical backbone of much of later Persianate and Ottoman Sufism. The Persian poet Shabistari (d. 1320) popularized it in verse in the *Gulshan-i Raz* (Rose Garden of Mystery).
 

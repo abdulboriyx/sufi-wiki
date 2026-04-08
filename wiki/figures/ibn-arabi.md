@@ -15,10 +15,11 @@ Known as *Ash-Shaykh al-Akbar* (The Greatest Master), Ibn 'Arabi is the most met
 He is venerated as the supreme Sufi sage and reviled as a pantheist heretic, often simultaneously. Almost no subsequent Muslim thinker of significance could avoid taking a position on him.
 
 ## Core Teachings
-- **Wahdat al-Wujud (Unity of Being):** The doctrine that all existence is one — a continuous self-disclosure (*tajalli*) of the Divine Being. The apparent multiplicity of the world is real at the level of manifestation but not at the level of ultimate reality. Only God truly exists; all else is a reflection or mode of God's self-disclosure.
-- **The Perfect Man (*Insan Kamil*):** Every prophet instantiates a specific Divine name or attribute; Muhammad, as the Seal of the Prophets, encompasses all names. The realized mystic (*qutb*, the pole) embodies this perfection in each age.
-- **Barzakh (the Isthmus):** A concept central to his cosmology — an intermediate reality between two apparently opposed poles (e.g., existence and non-existence, the sensory and the intelligible) that mediates and connects them. This allows him to hold together God's transcendence and immanence without collapsing one into the other.
-- **Imagination (*Khyal*):** Divine imagination is the creative power that generates the world; the world is, in a precise sense, a work of imagination — not "unreal" but real at a different level than pure Being.
+- **Wahdat al-Wujud (Unity of Being):** The doctrine that all existence is one — a continuous self-disclosure (*tajalli*) of the Divine Being. Chittick emphasizes that Ibn Arabi rarely used this exact term himself, but his system describes the "Oneness of Wujud" where the apparent multiplicity is the "self-disclosure" of the One.
+- **Tanzih and Tashbih (Incomparability and Similarity):** A central "Scale" in his thought. God is absolutely transcendent (*tanzih*) but also immanent and similar (*tashbih*) as He reveals Himself through the cosmos. To hold only one view is to be limited; the "Gnostic" (*'arif*) holds both simultaneously.
+- **The Perfect Man (*Insan Kamil*):** Every prophet instantiates a specific Divine name or attribute; Muhammad, as the Seal of the Prophets, encompasses all names. The realized human being is a microcosm who mirrors the fullness of the Divine Presence (*al-hadrat al-ilahiyya*).
+- **Barzakh (the Isthmus) and Imagination (*Khayal*):** A concept central to his cosmology — an intermediate reality between two poles. Chittick highlights the "World of Imagination" (*alam al-khayal*) as the ontological bridge where "meanings take on forms."
+- **Opening (*Futuh*):** The source of his knowledge is not rational deduction (*'aql*) but direct Divine inspiration or "opening" of the heart.
 
 ## Primary Works
 - ***Al-Futuhat al-Makkiyya*** (The Meccan Illuminations) — a vast encyclopedia of mystical knowledge running to dozens of volumes; written over decades.
